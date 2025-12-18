@@ -18,4 +18,6 @@ VM Setup
       - 4 CPU Cores
       - 4 GB RAM
       - 50 GB Dynamically allocated storage
-    3.
+    3. Attached Windows 10 ISO
+    4. Windows Installation Completed
+    5. verified Internet connectivity
