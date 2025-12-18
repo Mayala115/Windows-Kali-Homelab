@@ -22,7 +22,7 @@
     3. Attached Windows 10 ISO
     4. Windows Installation Completed
     5. verified Internet connectivity
-    6. Snapshot of 
+    6. Snapshot of Windows Running in VM [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/winHome.png)
 
   - Kali Linux VM
       1. Created new VM in VirtualBox
