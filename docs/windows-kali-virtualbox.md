@@ -6,7 +6,3 @@ Tools used
   - Windows 10 ISO
   - Kali Linux ISO
   - Host system (Windows 10)
-
-Network Configuration
-  - Virtual Machines were configured using NAT networking to allow internet access while remaining isolated from the host network
-  - Visit [Network Diagram](Windows-Kali-Homelab/diagrams/Network-Topology.png)
