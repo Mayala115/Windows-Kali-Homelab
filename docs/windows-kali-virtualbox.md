@@ -21,7 +21,7 @@
       - 50 GB Dynamically allocated storage
     3. Attached Windows 10 ISO
     4. Windows Installation Completed
-    5. verified Internet connectivity
+    5. verified Internet connectivity [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/winINT.png)
     6. Snapshot of Windows Running in VM [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/winHome.png)
 
   - Kali Linux VM
