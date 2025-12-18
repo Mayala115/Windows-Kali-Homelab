@@ -9,6 +9,7 @@ Tools used
 
 Network Configuration
   - Virtual Machines were configured using NAT networking to allow internet access while remaining isolated from the host network
+  - Windows NAT config [here](
 
 VM Setup
 
