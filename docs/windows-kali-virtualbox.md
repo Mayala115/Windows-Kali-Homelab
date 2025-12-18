@@ -6,3 +6,16 @@ Tools used
   - Windows 10 ISO
   - Kali Linux ISO
   - Host system (Windows 10)
+
+Network Configuration
+  - Virtual Machines were configured using NAT networking to allow internet access while remaining isolated from the host network
+
+VM Setup
+
+  - Windows 10 VM
+    1. Created new VM in VirtualBox
+    2. assigned:
+      - 4 CPU Cores
+      - 4 GB RAM
+      - 50 GB Dynamically allocated storage
+    3.
