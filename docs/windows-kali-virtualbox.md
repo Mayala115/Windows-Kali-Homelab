@@ -9,7 +9,7 @@ Tools used
 
 Network Configuration
   - Virtual Machines were configured using NAT networking to allow internet access while remaining isolated from the host network
-  - Windows NAT config [here](
+  - Windows NAT config [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/Windows-NAT.PNG)
 
 VM Setup
 
