@@ -9,7 +9,7 @@ Tools used
   - Kali Linux
 
 Network Topology
-  - jkdlfj
+  - [Network Diagram](diagrams/Network-Topology.png)
 
 Summary
   - This lab demonstates virtualization fundementals, OS installation, and basic network configuration using NAT networking
