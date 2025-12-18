@@ -13,3 +13,6 @@ Network Topology
 
 Summary
   - This lab demonstates virtualization fundementals, OS installation, and basic network configuration using NAT networking
+
+Full Documentation
+- [see full documentation here](docs/windows-kali-virtualbox.md)
