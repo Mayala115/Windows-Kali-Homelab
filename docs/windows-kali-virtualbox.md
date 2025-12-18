@@ -7,3 +7,5 @@ Tools used
   - Kali Linux ISO
   - Host system (Windows 10)
 
+Network Configuration
+  - Virtual Machines were configured using NAT networking to allow internet access while remaining isolated from the host network
