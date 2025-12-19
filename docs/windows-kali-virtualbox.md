@@ -47,6 +47,7 @@
   - How to configure and deploy multiple operating system in a virtual enviornment
   - Resource allocation is important in the performance of the VM
   - NAT networking provides internet access while maintaining isolation
+  - The importance of snapshots to recover a VM from before any changes or mistakes were made
 
 # Future Changes
   - Change to internal network for networking and security testing
