@@ -49,4 +49,6 @@
   - NAT networking provides internet access while maintaining isolation
 
 # Future Changes
-  - 
+  - Change to internal network for networking and security testing
+  - update Kali to the newest version
+
