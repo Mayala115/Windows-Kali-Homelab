@@ -10,6 +10,7 @@
 ## Network Configuration
   - Virtual Machines were configured using NAT networking to allow internet access while remaining isolated from the host network
   - Windows NAT config [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/Windows-NAT.PNG)
+  - Kali NAT config [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/Kali-NAT.PNG)
 
 ## VM Setup
 
@@ -21,9 +22,7 @@
       - 50 GB Dynamically allocated storage
     3. Attached Windows 10 ISO
     4. Windows Installation Completed
-    5. verified Internet connectivity [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/winINT.png)
-    6. Snapshot of Windows Running in VM [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/winHome.png)
-
+   
   - Kali Linux VM
       1. Created new VM in VirtualBox
       2. Assigned
@@ -32,11 +31,13 @@
          - 50 GB Dyanamically allocated storage
       3. Attached Kali Linux ISO
       4. Kali Linux Installation Completed
-      5. Verified Interner connnectivity
     
 ## Validation and Testing
+  1. Snapshot of Windows Running in VM [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/winHome.png)
+  2. verified Windows Internet connectivity [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/winINT.png)
 
-  -FILL-LATER
+  1. Snapshot of Kali running in VM [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/Kali-home.png)
+  2. Verified Internet connnectivity [here](https://github.com/Mayala115/Windows-Kali-Homelab/blob/main/Snapshot/Kali-INT.png)
 
 ## Challenges and Troubleshooting
   - Windows 10 did not boot properly.
